@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![](https://github-readme-stats.vercel.app/api?username=tdrkDev)](https://github.com/tdrkDev)
+![Metrics](https://github.com/tdrkDev/tdrkDev/blob/master/github-metrics.svg)
