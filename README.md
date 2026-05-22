@@ -4,8 +4,10 @@
 
 ### Who am I
 
-I am Dart/C developer, Android system developer. For scripting purposes, I use shell or Python.
+I am C, C++, Java, Kotlin developer, Android system developer, former Dart developer. For scripting purposes, I use shell or Python.
 Experienced in modifying Linux kernel, AOSP; Linux system administration.
+
+Currently I mostly work on closed source code for Screenmate LLC-FZ.
 
 Some of my public work:
 * Maintaining and developing device tree for LineageOS for some Snapdragon 845 based devices
